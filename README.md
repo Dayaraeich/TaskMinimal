@@ -1,5 +1,4 @@
 # TaskMinimal
-A lightweight task manager so you can focus on what matters.
+Um gerenciador de tarefas para que você possa se concentrar no que importa.
 
-This is a simple program that allows you to manage tasks. In it, you can add new tasks and delete selected tasks. To use it, just fill in the text field with the description of the task and click on the "Add" button. To delete one or more tasks, just select them from the list and click the "Delete" button or press the "Delete" key on your keyboard. The program uses the tkinter library for the graphical interface and was developed in Python.
-
+Este é um programa simples que permite gerenciar tarefas. Nele você pode adicionar novas tarefas e excluir tarefas selecionadas. Para utilizá-lo, basta preencher o campo de texto com a descrição da tarefa e clicar no botão “Adicionar” ou pressionar a teclar "enter". Para excluir uma ou mais tarefas, basta selecioná-las na lista e clicar no botão “Excluir” ou pressionar a tecla “delete” do teclado. O programa utiliza a biblioteca tkinter para a interface gráfica e foi desenvolvido em Python.
